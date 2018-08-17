@@ -1,4 +1,12 @@
+FOR 2016:
 WOS New Search using Enhanced Org Index: OG=(Aerospace Corporation - USA) AND PY=2016
-Timespan: All years. Indexes: SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC. = 251 results
-Imported 143 Wos refs into EndNote; 108 refs were moved to Duplicates Library by EN automatic dedup when importing
-New Search: OO=("The Aerospace" NEAR/1 Corp*) OR OO=(aerosp* SAME "El Segundo")
+  Timespan: All years. Indexes: SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC. = 251 results
+Imported 143 Wos refs into EndNote; 108 refs were to Duplicates Library [ Kim-EndNote-Library-Dupl.enl ] by EN automatic deduplication when importing.
+
+New Search: OO=("The Aerospace" NEAR/1 Corp*) OR OO=(aerosp* SAME "El Segundo") = 1 result for 2014
+
+FOR 2017: 
+Wos New Search using Enhanced Org Index: OG=(Aerospace Corporation - USA) AND PY=2017 = 158 results
+Imported 78 refs into EndNote; 80 refs moved to Duplicates Library  [ Kim-EndNote-Library-Dupl.enl ] by EN automatic deduplication when importing.
+
+
