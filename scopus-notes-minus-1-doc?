@@ -1,3 +1,4 @@
 AF-ID("Aerospace Corporation USA" 60029575) AND (PUBYEAR IS 2016) = 221 results today
 why one less result than yesterday?
 New search: AF-ID("Aerospace Corporation USA" 60029575) AND (PUBYEAR = 2017) = 181 docs
+New search: (AFFILORG({The Aerospace} PRE/1 Co*) OR (AFFILORG(Aerospace PRE/1 Co*) AND AFFILCITY{El Segundo})) AND (PUBYEAR = 2016) = 78 results 
