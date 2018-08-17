@@ -5,3 +5,5 @@ New search: (AFFILORG({The Aerospace} PRE/1 Co*) OR (AFFILORG(Aerospace PRE/1 Co
 Excluding docs with The Aerospace Corporation  AFF-ID = 0 docs so all are akready in the 2016 results
 New search: (AFFILORG({The Aerospace} PRE/1 Co*) OR (AFFILORG(Aerospace PRE/1 Co*) AND AFFILCITY{El Segundo})) AND (PUBYEAR = 2017) AND ( EXCLUDE ( AF-ID,"Aerospace Corporation, USA" 60029575) ) = 2 Kazakhstan rsults
 Forget Co* and Use Corp* because Co* also retrieves aerospace Committee.
+Import into EndNote removed one duplicate to Duplicates Library  Kohli, R. and K. L. Mittal (2016). "Preface." Developments in Surface Contamination and Cleaning 9: xiii-xv.
+Yields 220 Scopus docs for 2016 Aerospace Corp folder
