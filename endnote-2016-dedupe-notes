@@ -17,10 +17,18 @@ Stopped deduping at Li, J., et al. (2016). "Formation of energetic electron butt
 
 because mostly retained WoS entries versus Scopus, but Scopus spells out affiliations w/o abbreviations
 
+2018-08-22 Notes
+
 Moved 12 Ref Type Book section 2016 IEEE Aerospace Conference to 2016 Aerospace dupes folder. Left 12 Conf Proceedings in Aero-2016 folder
 
 For Reftype Journal Article, IEEE Transactions on Nanotechnology, WOS data is better, includes detailed funder info. 
 For Consistency, keeping Scopus citation.
+
+Started Excl-fr-Aero-2017 EndNote Group to file refs that are editors' comments, preface to book, etc.
+
+Had to manually correct year of Scopus entry for Koga, R., et al. (2016). Heavy ion and proton induced radiation effects on commercial analog switch microcircuits. 2016 IEEE Radiation Effects Data Workshop, REDW 2016, Institute of Electrical and Electronics Engineers Inc.
+	We present observations of heavy ion and proton induced radiation effects on selected COTS analog switch integrated microcircuits. © 2016 IEEE.
+Originally assigned 2017 pub year, but the conf definitely 2016 in the remainder of citation. Plus author, had another ref for the 2017 conf.
 
 
 
