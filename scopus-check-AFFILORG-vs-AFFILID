@@ -1,0 +1,3 @@
+AFFILORG ( aerospace  PRE/0  corp* )  AND  AFFILCITY ( "el segundo"  OR  "los angeles" )  AND  ( LIMIT-TO ( PUBYEAR ,  2016 ) ) 
+=183 docs
+All 183 docs were in the scopus-aerospace-2016-221-results.ris export so no additional refs gained by using AFFILORG name search on top of AFFILID search
