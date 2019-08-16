@@ -9,4 +9,10 @@ FOR 2017:
 Wos New Search using Enhanced Org Index: OG=(Aerospace Corporation - USA) AND PY=2017 = 158 results
 Imported 78 refs into EndNote; 80 refs moved to Duplicates Library  [ Kim-EndNote-Library-Dupl.enl ] by EN automatic deduplication when importing.
 
+FOR 2018:
+WoS New Search using OG=(Aerospace Corporation - USA) AND PY=2018  = 179 results
+Indexes=SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC Timespan=All years
 
+2018 Wos Search of variants yields 17 results already included in the Enhanced Org search above.
+(OO=("The Aerospace" NEAR/1 Corp*) OR OO=(aerosp* NEAR/1 corp*)) AND (OO=(aerosp* SAME "El Segundo") OR OO=(aerosp* SAME "Los Angeles")) AND PY=2018
+Indexes=SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC Timespan=All years
