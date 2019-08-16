@@ -1,3 +1,5 @@
 Search:   (AFFILORG("The Aerospace" PRE/1 Corp*) OR (AFFILORG(Aerospace PRE/1 Corp*) AND AFFILCITY("El Segundo" OR "Los Angeles"))) AND (PUBYEAR = 2018) AND ( EXCLUDE ( DOCTYPE,"ed" ) )  yields 188 results  
-Need to include Los Angeles because several Aerospace Corp authors use POB in Los Angeles as affiliation address. Needed to add LIMIT
+Need to include AFFILCITY "Los Angeles" search because several Aerospace Corp authors use PO Box in Los Angeles as affiliation address. 
+Omitting Los Angeles would cause you to miss 29 results
+Needed to add LIMIT
  LIMIT-TO ( AF-ID ,  "Aerospace Corporation, USA"   60029575 ) )  to exclude Ball Aerospace doc
