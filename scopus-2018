@@ -1,0 +1,2 @@
+Search:  (AFFILORG("The Aerospace" PRE/1 Corp*) OR (AFFILORG(Aerospace PRE/1 Corp*) AND AFFILCITY("El Segundo"))) AND (PUBYEAR = 2018) 
+yields 161 docs minus 3 Editorials yields 158 docs. Retained Letter that was substantial publication in Nature
